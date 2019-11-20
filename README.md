@@ -26,9 +26,7 @@ For help with templates, local development and other Jekyll related stuff, check
 
 ## Getting started
 
-Simply click the deploy button to get your own copy of the repository deployed to Netlify:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ryanhudson/jekyll-netlify-resume&stack=cms)
+Simply click the deploy button at the top of the README to get your own copy of the repository deployed to Netlify.
 
 This will setup everything needed for running the CMS:
 
