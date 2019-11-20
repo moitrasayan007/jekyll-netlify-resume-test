@@ -30,7 +30,7 @@ You can test the demo site's TTFB (Time To First Byte) at [testmysite.io](https:
 
 Simply click the deploy button to get your own copy of the repository deployed to Netlify:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/jekyll-netlify-boilerplate&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ryanhudson/jekyll-netlify-resume&stack=cms)
 
 This will setup everything needed for running the CMS:
 
