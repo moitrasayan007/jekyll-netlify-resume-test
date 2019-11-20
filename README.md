@@ -1,13 +1,11 @@
-# Jekyll Netlify Boilerplate
+# Jekyll Netlify Resume Template
 
-*Note: Check out my [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate). It does pretty much the same as this project but uses the [Eleventy](https://www.11ty.io/) static site generator. It's fast, flexible and doesn't require Ruby.*
 
-**A really simple Jekyll template for creating a fast, static website on Netlify with
+**A really simple Jekyll template for creating a fast, static resume websites on Netlify with
 a continuous deployment workflow.**
 
-🔥 **This project is featured on Netlify's official [template showcase](http://templates.netlify.com/template/jekyll-with-netlify-cms-boilerplate/) and blog: [The top 10 Static Site Generators to watch in 2018](http://templates.netlify.com/template/jekyll-with-netlify-cms-boilerplate/)** 🔥
-
 * Minimal styling, ready to make your own
+* Torre bio integration
 * Example blog posts, pages and contact form
 * Responsive CSS Grid layout with fallbacks for older browsers
 * Continuous Deployment workflow via Netlify and Github
