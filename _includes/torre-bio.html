@@ -16,21 +16,13 @@
       </defs>
     </svg>
     <div class="polygon-each-img-wrap">
-      <img id="prof-pic" style="margin-bottom: 10px;" src="http://karenmenezes.com/shapes-polygon/image.jpg" alt="demo-clip-heptagon" class="polygon-clip-hexagon">
+      <img id="prof-pic" style="margin-bottom: 10px;" src="{{ site.data.torre.person.picture }}" alt="demo-clip-heptagon" class="polygon-clip-hexagon">
     </div>
   </div> 
   <div style="padding-bottom: 10px;">
-  <h1 id="name"></h1>
+  <h1 >{{ site.data.torre.person.name }}</h1>
   <a style="text-decoration: none; border-bottom: none;" href="#">Hire me on torre</a>
   </div>
 
-  <script>
-      const url='https://torre.bio/api/bios/ryanhudson';
-      fetch(url)
-      .then(response => response.json())
-      .then(function(data) {
-          document.getElementById("name").innerHTML = data.person.name;
-          document.getElementById("prof-pic").src = data.person.picture;
-      });
-  </script>
+
 </div>
